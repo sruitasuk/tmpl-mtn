@@ -1,0 +1,24 @@
+/* here you can put your own css to customize and override the theme */
+.dataTables_wrapper .dt-buttons {
+    display: block;
+    float:none;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.btn-excel {
+    background: #1D6F42 !important;
+    color:#FFF !important;
+}
+
+.btn-approve {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-approve:hover {
+    color: #fff;
+    background-color: #218838;
+    border-color: #1e7e34;
+}
