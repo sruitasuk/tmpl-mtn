@@ -304,9 +304,6 @@
   .page-header {
     /* Page Logo */
     /* Topbar Actions */ }
-    .page-header .page-logo {
-      display: block;
-      float: none !important; }
     .page-header .topbar-actions .btn-group-img .btn > span {
       display: none !important; } }
 
