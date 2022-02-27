@@ -50,7 +50,7 @@
       height: 26px;
       max-height: 26px;
       line-height: 26px;
-      margin-right: 75px; }
+      margin-right: 25px; }
       .page-header .navbar .page-logo img {
         width: auto;
         height: auto;
@@ -58,6 +58,10 @@
         max-height: 100%;
         display: inline-block;
         vertical-align: middle; }
+    .page-header .navbar .title-traveltype {
+      float: left;
+      font-size: 20px;
+      font-weight: bold; }
     .page-header .navbar .search {
       top: 10px;
       display: table;
@@ -318,8 +322,6 @@
     .page-header .navbar-fixed-top {
       position: static;
       margin: 10px auto; }
-    .page-header .page-logo {
-      float: none !important; }
     .page-header .search {
       display: inherit !important; }
       .page-header .search .form-control {
